@@ -7,9 +7,7 @@ $(window).scroll(function(){
       $(window).scrollTop(18629);
   }
 
-
-if($(window).scrollTop() + $(window).height() == $(document).height()) {
-       console.log('FIN DEL DOCUMENTO');
+  if($(window).scrollTop() + $(window).height() == $(document).height()) {
         $(window).scrollTop(2000);
    }
 

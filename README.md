@@ -4,4 +4,4 @@
 
 ### El reto consiste en:
 
-Desarrollar un scroll infinito que pueda fincioonar de arriba hacia abajo (normal) y de abajo hacia arriba (inverso) en JavaScript.
+Desarrollar un scroll infinito que pueda funcionar de arriba hacia abajo (normal) y de abajo hacia arriba (inverso) en JavaScript.

@@ -1,0 +1,24 @@
+body {
+    background: #384047;
+    font-family: 'Yatra One', cursive;
+  font-size: 60px;
+}
+
+a {
+  text-decoration: none;
+}
+
+div {
+    background: #fff;
+    margin: 50px auto 10px;
+    border-radius: 5px;
+    box-shadow: 0 4px 0 0 #222;
+  height: 300px;
+  width: 600px;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 300px;
+}
+
+
+
